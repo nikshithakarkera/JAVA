@@ -17,7 +17,5 @@ public class multipleinher {
         Area a = new Area();
     System.out.println("Area of Reactangle:"+a.area_rect(10,20));  
     System.out.println("Area of Triangle:"+a.area_tri(10,20));  
-
-}
-    
+}    
 }
